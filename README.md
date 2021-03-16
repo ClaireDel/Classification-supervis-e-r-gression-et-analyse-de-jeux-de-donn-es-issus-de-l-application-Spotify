@@ -1,1 +1,1 @@
-# Classification-supervis-e-r-gression-et-analyse-de-jeux-de-donn-es-issus-de-l-application-Spotify
+# Classification supervisée, régression et analyse de jeux de données issus de l'application Spotify
