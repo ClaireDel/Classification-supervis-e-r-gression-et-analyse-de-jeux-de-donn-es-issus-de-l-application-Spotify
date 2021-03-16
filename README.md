@@ -9,5 +9,5 @@ Le but de l'exercice est de proposer une méthode de classification optimale pou
 Le but de l'exercice est d’entrainer notre algorithme à prédire la popularité des musiques disponibles dans la base de données de Spotify. Etant donné le caractère continu des données de popularité, nous optons pour une méthode de régression. La performance des algorithmes testés sera quantifiée selon le RMSE et le R2.
 
 <p align="center">
-  <img src="" width=400 height=auto>
+  <img src="https://github.com/ClaireDel/Classification-supervisee-regression-et-analyse-de-jeux-de-donnees-issus-de-l-application-Spotify/blob/main/images/Capture.PNG" width=400 height=auto>
 </p>
